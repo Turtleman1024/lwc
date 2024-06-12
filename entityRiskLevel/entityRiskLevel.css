@@ -1,0 +1,49 @@
+.title {
+    font-weight: bold;
+    font-size: 18px;
+    margin-top: 6px;
+    margin-bottom: 12px;
+}
+
+.center-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.badge {
+    font-family: "Gill Sans", sans-serif;
+    font-size: 48px;
+    color: #ffffff;
+    word-wrap: break-word;
+    white-space: pre-wrap;
+    margin-bottom: 16px;
+    padding-left: 24px;
+    padding-right: 24px;
+}
+
+.badge-none {
+    color: #47494c;
+    font-size: 16px;
+    background-color: transparent;
+}
+
+.badge-green {
+    background-color: #4ca072;
+    box-shadow: 0 0 0 2px #007836;
+}
+
+.badge-yellow {
+    background-color: #f7c34c;
+    box-shadow: 0 0 0 2px #f4aa00;
+}
+
+.badge-red {
+    background-color: #d15771;
+    box-shadow: 0 0 0 2px #be0f34;
+}
+
+.badge-black {
+    background-color: #47494c;
+    box-shadow:0 0 0 2px #191c1f;
+}
